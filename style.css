@@ -18,6 +18,9 @@ nav {
   align-items: center;
   padding: 10px 30px;
 }
+img.img {
+    height: 100px;
+}
 
 .logo {
   color: #fff;
